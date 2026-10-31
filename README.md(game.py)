@@ -1,1 +1,114 @@
+# 🎮 Hangman – Word Guessing Game (Python)
 
+## 📌 Project Overview
+
+Hangman is a simple and interactive word-guessing game developed using Python. In this game, the computer randomly selects a word from a predefined list, and the player must guess the word one letter at a time.
+
+The player has a maximum of 6 incorrect attempts to identify the hidden word. For every incorrect guess, a new stage of the ASCII Hangman drawing is displayed. The game ends when the player successfully guesses the word or runs out of attempts.
+
+This project is designed to improve Python programming skills and understand basic game development concepts.
+
+## 🎯 Objectives
+
+- To develop an interactive word-guessing game using Python.
+- To understand random word selection.
+- To practice loops, conditional statements, and functions.
+- To implement lists and sets in Python.
+- To improve problem-solving and logical thinking skills.
+
+## ✨ Features
+
+- **Random Word Selection:** Selects a random word from a predefined word list.
+- **Letter Guessing:** Allows players to guess one letter at a time.
+- **ASCII Hangman Drawing:** Displays different Hangman stages for incorrect guesses.
+- **Limited Attempts:** Provides a maximum of 6 incorrect attempts.
+- **Duplicate Guess Detection:** Prevents guessing the same letter repeatedly.
+- **Input Validation:** Accepts only one alphabet letter at a time.
+- **Quit Option:** Allows players to exit the game anytime.
+- **Win/Lose Detection:** Displays the result based on the player's performance.
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Python
+- **Module:** Random
+- **Platform:** Visual Studio Code
+
+## 📂 Project Structure
+
+```text
+Hangman-Game/
+│
+├── hangman.py
+└── README.md
+```
+
+## ⚙️ How to Run the Project
+
+### Step 1: Install Python
+
+Download and install Python from:
+
+https://www.python.org/downloads/
+
+### Step 2: Open the Project
+
+Open the Hangman project folder in Visual Studio Code.
+
+### Step 3: Run the Program
+
+Open the terminal and execute:
+
+```bash
+python hangman.py
+```
+
+### Step 4: Play the Game
+
+- The computer randomly selects a hidden word.
+- Enter one alphabet letter at a time.
+- Correct guesses reveal the letters.
+- Incorrect guesses reduce the remaining attempts.
+- Guess the complete word within 6 incorrect attempts to win.
+- Type `quit` to exit the game.
+
+## 💡 Python Concepts Used
+
+1. Variables and Data Types
+2. Lists
+3. Sets
+4. Functions
+5. While Loops
+6. Conditional Statements
+7. Random Module
+8. String Manipulation
+9. User Input Handling
+10. Input Validation
+
+## 🚀 Future Enhancements
+
+- Add different difficulty levels.
+- Include a scoring system.
+- Add more words and categories.
+- Allow players to play multiple rounds.
+- Develop a graphical user interface (GUI).
+- Add a multiplayer mode.
+
+## 🎓 Project Information
+
+**Project Name:** Hangman – Word Guessing Game
+
+**Project Type:** Python Mini Project
+
+**Domain:** Game Development
+
+**Programming Language:** Python
+
+**Author:** Nagamallikarjuna Veeramreddy
+
+## 📜 License
+
+This project is developed for educational and learning purposes.
+
+---
+
+⭐ If you like this project, feel free to explore, use, and improve it!
