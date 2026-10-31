@@ -1,0 +1,73 @@
+{
+    "business_hours": {
+        "keywords": [
+            "business hours",
+            "working hours",
+            "opening hours",
+            "open",
+            "close",
+            "timings",
+            "time"
+        ],
+        "response": "Our business hours are Monday to Saturday, 9:00 AM to 6:00 PM."
+    },
+    "products": {
+        "keywords": [
+            "product",
+            "products",
+            "item",
+            "items",
+            "catalog",
+            "available",
+            "services"
+        ],
+        "response": "We offer a range of products and services. Please specify the product you are interested in."
+    },
+    "pricing": {
+        "keywords": [
+            "price",
+            "cost",
+            "pricing",
+            "rate",
+            "charges"
+        ],
+        "response": "Prices depend on the product. Please provide the product name to get pricing information."
+    },
+    "delivery": {
+        "keywords": [
+            "delivery",
+            "shipping",
+            "dispatch",
+            "tracking"
+        ],
+        "response": "Delivery time depends on your location and product. Please check your order confirmation for tracking details."
+    },
+    "returns": {
+        "keywords": [
+            "return",
+            "refund",
+            "exchange",
+            "replacement"
+        ],
+        "response": "For returns or refunds, please keep your receipt and contact our customer support team."
+    },
+    "contact": {
+        "keywords": [
+            "contact",
+            "support",
+            "help",
+            "customer care",
+            "phone number",
+            "email"
+        ],
+        "response": "You can contact the customer support team through the official website's contact page."
+    },
+    "thanks": {
+        "keywords": [
+            "thanks",
+            "thank you",
+            "thankyou"
+        ],
+        "response": "You're welcome! I'm happy to help."
+    }
+}
